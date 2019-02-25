@@ -54,5 +54,5 @@
 {"addr":"cosmos1rwf9jukr8z0w0s9tqr7pyd23j8645whu8aj28f","amount":18500,"lock":"1 year"},
 {"addr":"cosmos17knx6xzq7l3sanrxymvpyep3nzumvmn6e4flec","amount":6500,"lock":"1 year"},
 {"addr":"cosmos1a9l4dq6s44k7dk4lx0us6g7xsunartz8rscnx3","amount":14750,"lock":"1 year"},
-{ "addr":"cosmos1grgelyng2v6v3t8z87wu3sxgt9m5s03xvslewd": [{"amount":1317495.66},{"amount":5000, "lockup":"1 year"}]
+{ "addr":"cosmos1grgelyng2v6v3t8z87wu3sxgt9m5s03xvslewd": [{"amount":1317495.66},{"amount":5000, "lock":"1 year"}]
 {"addr":"cosmos1skv2quty6zavcqfrnq746ll2pmyvj2739yy4gp","amount":18500,"lock":"1 year"},
